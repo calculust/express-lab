@@ -1,0 +1,10 @@
+[
+    {
+        "firstName": "Test",
+        "lastName": "User",
+        "address": "69 Test St",
+        "city": "Margaritaville",
+        "state": "CA",
+        "zip": "42002"
+    }
+]
